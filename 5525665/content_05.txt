@@ -1,0 +1,1 @@
+Здесь мы видим, слева направо: VGA port, LPT1 Printer port, Serial port (dual-up modem). Иными словами все по стандарту. Идём далее..
